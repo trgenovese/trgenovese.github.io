@@ -4,7 +4,7 @@
 SOURCES AND CREDITS:
 
 Website Template Design:
- - Erwin Aligam (styleshout.com)
+ - Erwin Aligam (http://www.styleshout.com)
 
 I've used the following resources as listed.
 
